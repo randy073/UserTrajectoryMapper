@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor2</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Run</string>
+    <string name="log_name">name the log ...</string>
+
+</resources>
